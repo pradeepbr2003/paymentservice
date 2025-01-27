@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8181
+  profiles:
+    active:
+      - stg
+  application:
+    name: paymentservice, sample, testing, demo
