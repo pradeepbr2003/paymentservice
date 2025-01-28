@@ -6,4 +6,4 @@ spring:
     active:
       - stg
   application:
-    name: paymentservice, sample, testing, demo
+    name: paymentservice, sample, testing, demo, welcome
